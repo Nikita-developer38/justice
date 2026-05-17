@@ -444,6 +444,8 @@ export default function LawyerWebsiteUI() {
           </div>
         </div>
 
+        
+
         <div className="max-w-7xl mx-auto px-6 lg:px-10 mt-16 pt-8 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-[#94A3B8]">
           <p>© 2026 Justice & Co. All rights reserved.</p>
 
