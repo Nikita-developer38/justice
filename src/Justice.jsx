@@ -448,8 +448,8 @@ export default function LawyerWebsiteUI() {
           <p>© 2026 Justice & Co. All rights reserved.</p>
 
           <div className="flex items-center gap-6">
-            <a href="#">Privacy Policy</a>
-            <a href="#">Terms & Conditions</a>
+            <p>Privacy Policy</p>
+            <p>Terms & Conditions</p>
           </div>
         </div>
       </footer>
